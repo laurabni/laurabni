@@ -14,7 +14,7 @@ The projects you can find on my profile are either from my studies or my persona
 [![My Skills](https://skillicons.dev/icons?i=ts,angular,symfony,docker,mysql,rabbitmq)](https://skillicons.dev)
 
 
-### Other Skills
+### Other Skills :
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ae,ai,pr)](https://skillicons.dev)
 
