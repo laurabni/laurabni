@@ -1,4 +1,4 @@
-#Hi and welcome on my profile☺️
+##Hi and welcome on my profile☺️
 
 I'm a co-op student in *web development*. 
 I discovered web development through my studies and love to learn new technologies. I learn and practice in my studies but also in my free time.
